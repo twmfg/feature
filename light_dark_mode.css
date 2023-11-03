@@ -416,7 +416,7 @@ footer .fa-location{
         width: 60%;
         top: 100px;
         background-color: var(--nav);
-        left: -100%;
+        left: -120%;
         min-height: 30vh;
         transition: .9s;
         z-index: 1;
